@@ -1,4 +1,5 @@
-# construct mixer and cost hamiltonians here: 
-import numpy as np 
-import pennylane as qml 
+# construct mixer and cost hamiltonians here:
+import pennylane as qml
+from pennylane import numpy as np
+
 
